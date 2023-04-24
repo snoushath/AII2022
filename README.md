@@ -9,5 +9,5 @@ Ensemble Classifiers for a 4-Way Classification of Alzheimer’s Disease (https:
 
 The code base currently has the following issue:
 
-*The dataset is unable to be pushed due to larger size. 
+*The OASIS dataset is unable to be pushed due to larger size. 
 The users can email the author of the code repo: noushath.mys@gmail.com
